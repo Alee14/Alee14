@@ -6,7 +6,8 @@
 ## I'm a Student and Developer!
 
 - 🔭 I’m currently working on my website and PS (Project Sandbox)
-- 👯 I’m looking to grow Alee Productions which is my future company
+- 💼 I’m looking to grow Alee Productions which is my future company
+- 💻 Trying to learn penetration testing
 
 ### Connect with me:
 
@@ -17,6 +18,9 @@
 
 <br />
 <br />
+
+<img src="http://www.hackthebox.eu/badge/image/391735" alt="Hack The Box">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Alee.png" alt="TryHackMe">
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.alee14.vercel.app/api?username=Alee14&show_icons=true&hide_border=true" />
 
