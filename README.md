@@ -19,7 +19,7 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.alee14.vercel.app/api?username=Alee14&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alee14&show_icons=true&theme=merko&hide_border=true" />
 
 [website]: https://alee14.me
 [twitter]: https://twitter.com/Alee14498
