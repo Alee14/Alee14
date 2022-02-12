@@ -6,8 +6,10 @@
 ## I'm a Student and Developer!
 
 - 🔭 I’m currently working on personal projects!
+- <!--
 - 💼 I’m looking to grow Alee Productions which is my future company
 - 🎵 Trying to work on Erable Audio Player (my future music player)
+-->
 
 ### Connect with me:
 
