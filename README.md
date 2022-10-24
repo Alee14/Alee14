@@ -14,9 +14,9 @@
 ### Connect with me:
 
 [<img align="left" alt="alee14.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AndrewLeeCAN | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Alee14498 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Alee1449 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
@@ -25,7 +25,7 @@
 
 [website]: https://alee14.me
 [twitter]: https://twitter.com/Alee14498
-[youtube]: https://youtube.com/Andrew14Lee
+[youtube]: https://youtube.com/c/AndrewLeeCAN
 [instagram]: https://instagram.com/Alee14498
 <!--
 **Alee14/Alee14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
