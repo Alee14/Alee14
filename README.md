@@ -15,6 +15,7 @@
 
 [<img align="left" alt="alee14.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="AndrewLeeCAN | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="AndrewLeeCAN | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />][mastodon]
 [<img align="left" alt="Alee14498 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Alee1449 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -25,6 +26,7 @@
 
 [website]: https://alee14.me
 [twitter]: https://twitter.com/Alee14498
+[mastodon]: https://social.linux.pizza/@Alee
 [youtube]: https://youtube.com/c/AndrewLeeCAN
 [instagram]: https://instagram.com/Alee14498
 <!--
