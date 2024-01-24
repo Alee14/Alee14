@@ -6,17 +6,12 @@
 ## I'm a Student and Developer!
 
 - 🔭 I’m currently working on personal projects!
-<!--
-- 💼 I’m looking to grow Alee Productions which is my future company
-- 🎵 Trying to work on Erable Audio Player (my future music player)
--->
+- 💻 Currently at a vocational school for IT
 
 ### Connect with me:
 
 [<img align="left" alt="alee14.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="AndrewLeeCAN | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="AndrewLeeCAN | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />][mastodon]
-[<img align="left" alt="Alee14498 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Alee1449 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -25,8 +20,6 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alee14&show_icons=true&theme=merko&hide_border=true" />
 
 [website]: https://alee14.me
-[twitter]: https://twitter.com/Alee14498
-[mastodon]: https://social.linux.pizza/@Alee
 [youtube]: https://youtube.com/c/AndrewLeeCAN
 [instagram]: https://instagram.com/Alee14498
 <!--
