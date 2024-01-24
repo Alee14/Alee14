@@ -1,7 +1,6 @@
 ### Hello! I'm Andrew Lee! ([Alee14][website]) 👋
 
 [![Website](https://img.shields.io/website?label=alee14.me&style=for-the-badge&url=https%3A%2F%2Falee14.me)](https://alee14.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Alee14498?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAlee14498&screen_name=Alee14498)
 
 ## I'm a Student and Developer!
 
